@@ -24,7 +24,7 @@
 
 ### &nbsp;About Me :
 
-I am a Medical Physicist, Researcher and Programming Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Medical Physicist, Researcher and Programming & AI Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 🔭 I’m working as a Clinical Medical Physicist in Proton Beam Therapy at The Christie Hospital NHS.
 - 🌱 Exploring Technical Content Writing.
