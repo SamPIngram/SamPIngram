@@ -58,9 +58,3 @@ I am a Medical Physicist, Researcher and Programming & AI Enthusiast <img src="h
 
 ---
 
-### 📖 &nbsp; Recent Publications :
-
- - [Hi-C implementation of genome structure for in silico models of radiation-induced DNA damage](https://dx.doi.org/10.1371/journal.pcbi.1008476)
-
- - [Mechanistic modelling supports entwined rather than exclusively competitive DNA double-strand break repair pathway](https://doi.org/10.1038/s41598-019-42901-8)
----
