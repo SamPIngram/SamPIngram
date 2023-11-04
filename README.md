@@ -53,7 +53,7 @@ I am a Medical Physicist, Researcher and Programming & AI Enthusiast <img src="h
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://streak-stats.demolab.com/?user=sampingram&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-three-rho.vercel.app?user=SamPIngram&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
