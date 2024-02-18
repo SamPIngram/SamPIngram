@@ -60,6 +60,7 @@ I am a Medical Physicist, Researcher and Programming & AI Enthusiast <img src="h
 ---
 
 ### 🔥 &nbsp; My Stats :
+NOTE: I'm currently undertaking a "commit everyday" challenge. Hence the stat view. 
 [![GitHub Streak](https://github-readme-streak-stats-three-rho.vercel.app?user=SamPIngram&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
