@@ -26,7 +26,7 @@
 
 I am a Medical Physicist, Researcher and Programming & AI Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🏥 Clinical Medical Physicist in Proton Beam Therapy at The Christie Hospital NHS.
+- 🏥 Radiotherapy Clinical Scientific Computing Lead at The Christie Hospital NHS.
 - 🔭 Honorary Researcher at The University of Manchester.
 - 🤖 Fascinated by AI & get to explore this in both an academic and practitioner manner.
 - ⚡ In my free time I play video games and contribute to various software projects.
